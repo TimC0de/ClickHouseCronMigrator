@@ -1,0 +1,9 @@
+[submodule "libs/libcron"]
+	path = libs/libcron
+	url = https://github.com/PerMalmberg/libcron
+[submodule "libs/clickhouse-cpp"]
+	path = libs/clickhouse-cpp
+	url = https://github.com/ClickHouse/clickhouse-cpp
+[submodule "libs/loguru"]
+	path = libs/loguru
+	url = https://github.com/emilk/loguru

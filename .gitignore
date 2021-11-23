@@ -1,0 +1,8 @@
+out
+build
+bin
+deps
+log
+
+.vs
+.vscode

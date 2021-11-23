@@ -1,0 +1,8 @@
+version: '3'
+services:
+  cron_app:
+    build: .
+    image: cron
+    container_name: cron_migrator
+    volumes:
+      - ./log:/cronapp/bin/log
